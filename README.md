@@ -1,2 +1,2 @@
 # PortfolioExample2
-Another one example for Portfolio with HTML, CSS and JavaScript
+Another example of a Portfolio in HTML, CSS and JavaScript
